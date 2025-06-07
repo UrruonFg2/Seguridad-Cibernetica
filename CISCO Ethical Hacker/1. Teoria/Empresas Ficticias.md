@@ -7,10 +7,7 @@
 
 ## 🔒 Protego Security Solutions (Empleado)
 **Sector**: Ciberseguridad ofensiva  
-**Fundación**: 2009 (San Francisco) por ex-empleados del DoD  
-**Certificaciones clave**:  
-- ![[CPT|CEH|CISSP]]  
-- Acreditaciones: ![[PCI_QSA|ISO27001|CREST]]   
+**Fundación**: 2009 (San Francisco) por ex-empleados del DoD     
 - **Fundación**  
 	2009 en San Francisco, CA, por un grupo de profesionales en ciberseguridad que anteriormente trabajaron para el Departamento de Defensa de EE. UU. Empresa privada.
 - **Empleados**  

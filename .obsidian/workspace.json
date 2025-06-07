@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CISCO Ethical Hacker/2. Módulos del Curso/1.1. - Comprender la piratería ética y pruebas de penetración título.md",
-                "mode": "preview",
+                "file": "CISCO Ethical Hacker/1. Teoria/Pruebas de penetración populares.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1. - Comprender la piratería ética y pruebas de penetración título"
+              "title": "Pruebas de penetración populares"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "section:(ISSAF)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,17 +181,31 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "632dce7da0ab4ac7",
+  "active": "ae4fc5faac2e0ebb",
   "lastOpenFiles": [
-    "CISCO Ethical Hacker/2. Módulos del Curso/Sin título.md",
-    "CISCO Ethical Hacker/2. Módulos del Curso/1.1. - Comprender la piratería ética y pruebas de penetración título.md",
-    "CISCO Ethical Hacker/2. Módulos del Curso/Introducción.md",
-    "CISCO Ethical Hacker/3. Laboratorios  Prácticos/1.1.3 Práctica de laboratorio.md",
+    "CISCO Ethical Hacker/1. Teoria/Entorno conocido.md",
+    "CISCO Ethical Hacker/1. Teoria/Entorno parcialmente conocido.md",
+    "CISCO Ethical Hacker/1. Teoria/Pruebas basadas en aplicaciones.md",
+    "CISCO Ethical Hacker/1. Teoria/Entorno desconocido.md",
     "CISCO Ethical Hacker/1. Teoria/Empresas Ficticias.md",
-    "CISCO Ethical Hacker/2. Módulos del Curso/Sin título.canvas",
-    "Kali Linux/Comando Esenciales.md",
+    "CISCO Ethical Hacker/2. Módulos del Curso/1.2. - Exploración de las metodologías de pruebas de penetración.md",
+    "CISCO Ethical Hacker/2. Módulos del Curso/1.3. - Construyendo tu propio laboratorio.md",
+    "CISCO Ethical Hacker/1. Teoria/Pruebas de penetración en la nube.md",
+    "CISCO Ethical Hacker/1. Teoria/Pruebas de infraestructura de red.md",
+    "CISCO Ethical Hacker/1. Teoria/Pruebas de penetración populares.md",
+    "CISCO Ethical Hacker/2. Módulos del Curso/1.1. - Comprender la piratería ética y pruebas de penetración título.md",
+    "Pruebas de penetración.md",
+    "avatar-pose04.md",
+    "CISCO Ethical Hacker/3. Laboratorios  Prácticos/1.3.6 Implementación de una máquina virtual (VM) Kali Linux prediseñada.md",
+    "CISCO Ethical Hacker/3. Laboratorios  Prácticos/1.1.3 Práctica de laboratorio.md",
     "CPT.md",
     "PCI_QSA.md",
+    "Pautas.png",
+    "CISCO Ethical Hacker/2. Módulos del Curso/Introducción.md",
+    "CISCO Ethical Hacker/1. Teoria/Sin nombre",
+    "Kali Linux/Comando Esenciales.md",
+    "TryHackMe",
+    "CISCO Ethical Hacker/2. Módulos del Curso/Sin título.canvas",
     "Untitled.canvas",
     "Untitled",
     "CISCO Ethical Hacker/1. Teoria/Untitled.md",
