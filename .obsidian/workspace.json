@@ -11,14 +11,12 @@
             "id": "5a4597107ee0c1d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "CISCO Ethical Hacker/3. Laboratorios  Prácticos/2.4.3 - Cuestionario - Planificación y alcance de una evaluación de prueba de penetración.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250610211530.png"
               },
-              "icon": "lucide-file",
-              "title": "2.4.3 - Cuestionario - Planificación y alcance de una evaluación de prueba de penetración"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250610211530"
             }
           }
         ]
@@ -182,8 +180,16 @@
   },
   "active": "5a4597107ee0c1d5",
   "lastOpenFiles": [
-    "CISCO Ethical Hacker/2. Módulos del Curso/2.1. - Comparación y contraste de conceptos de gestión, riesgo y cumplimiento.md",
+    "Pasted image 20250610211718.png",
+    "Pasted image 20250610211816.png",
+    "Pasted image 20250610211530.png",
+    "TryHackMe/Machine/MACHINE - RICK AND MORTY.md",
     "CISCO Ethical Hacker/3. Laboratorios  Prácticos/2.4.3 - Cuestionario - Planificación y alcance de una evaluación de prueba de penetración.md",
+    "TryHackMe/Machine",
+    "TryHackMe/Sin título.md",
+    "TryHackMe",
+    "Kali Linux/Sin título.md",
+    "CISCO Ethical Hacker/2. Módulos del Curso/2.1. - Comparación y contraste de conceptos de gestión, riesgo y cumplimiento.md",
     "CISCO Ethical Hacker/3. Laboratorios  Prácticos/1.3.6 Implementación de una máquina virtual (VM) Kali Linux prediseñada.md",
     "CISCO Ethical Hacker/2. Módulos del Curso/2.4. - Resumen.md",
     "CISCO Ethical Hacker/2. Módulos del Curso/2.3. - Demostrar una mentalidad de piratería ética manteniendo el profesionalismo y la integridad.md",
@@ -206,20 +212,14 @@
     "Pruebas de penetración.md",
     "avatar-pose04.md",
     "CISCO Ethical Hacker/3. Laboratorios  Prácticos/1.1.3 Práctica de laboratorio.md",
-    "CPT.md",
-    "PCI_QSA.md",
     "CISCO Ethical Hacker/1. Teoria/Sin nombre",
     "TryHackMe",
     "CISCO Ethical Hacker/2. Módulos del Curso/Sin título.canvas",
     "Untitled.canvas",
     "Untitled",
-    "CISCO Ethical Hacker/1. Teoria/Untitled.md",
     "Kali Linux",
     "CISCO Ethical Hacker/4. Cheatsheets",
     "CISCO Ethical Hacker/3. Laboratorios  Prácticos",
-    "CISCO Ethical Hacker/Modulos del Curso/Untitled",
-    "CISCO Ethical Hacker/2. Módulos del Curso",
-    "CISCO Ethical Hacker/1. Teoria",
-    "Welcome.md"
+    "CISCO Ethical Hacker/Modulos del Curso/Untitled"
   ]
 }
