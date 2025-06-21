@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CISCO Ethical Hacker/2. Módulos del Curso/3.1. - Realizar reconocimiento pasivo.md",
+                "file": "TryHackMe/SOC/🛡️ INFORME SOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1. - Realizar reconocimiento pasivo"
+              "title": "🛡️ INFORME SOC"
             }
           }
         ]
@@ -182,11 +182,14 @@
   },
   "active": "5a4597107ee0c1d5",
   "lastOpenFiles": [
+    "Kali Linux/Comando Esenciales.md",
+    "TryHackMe/SOC/🛡️ INFORME SOC.md",
+    "TryHackMe/SOC",
+    "CISCO Ethical Hacker/2. Módulos del Curso/3.1. - Realizar reconocimiento pasivo.md",
     "Pasted image 20250618115918.png",
     "CISCO Ethical Hacker/2. Módulos del Curso/Introducción.md",
     "CISCO Ethical Hacker/3. Laboratorios  Prácticos/3.1.18 - Práctica de laboratorio - Conociendo más sobre la organización.md",
     "Imagenes/Pasted image 20250618114953.png",
-    "CISCO Ethical Hacker/2. Módulos del Curso/3.1. - Realizar reconocimiento pasivo.md",
     "CISCO Ethical Hacker/2. Módulos del Curso/2.3. - Demostrar una mentalidad de piratería ética manteniendo el profesionalismo y la integridad.md",
     "CISCO Ethical Hacker/3. Laboratorios  Prácticos/3.1.14 - Práctica de laboratorio - Búsqueda de información a partir de certificados SSL.md",
     "TryHackMe/Machine/MACHINE - RICK AND MORTY.md",
@@ -208,7 +211,6 @@
     "Imagenes/Pasted image 20250612110520.png",
     "Imagenes/Pasted image 20250612105913.png",
     "Imagenes/Pasted image 20250612105836.png",
-    "Imagenes/Pasted image 20250612105737.png",
     "Imagenes",
     "CISCO Ethical Hacker/3. Laboratorios  Prácticos/2.4.3 - Cuestionario - Planificación y alcance de una evaluación de prueba de penetración.md",
     "TryHackMe/Machine",
@@ -220,7 +222,6 @@
     "CISCO Ethical Hacker/1. Teoria/Pruebas de penetración populares.md",
     "CISCO Ethical Hacker/1. Teoria/Empresas Ficticias.md",
     "CISCO Ethical Hacker/1. Teoria/Entorno conocido.md",
-    "Kali Linux/Comando Esenciales.md",
     "CISCO Ethical Hacker/2. Módulos del Curso/Sin nombre",
     "CISCO Ethical Hacker/1. Teoria/Sin nombre",
     "TryHackMe",
@@ -228,7 +229,6 @@
     "Untitled.canvas",
     "Untitled",
     "Kali Linux",
-    "CISCO Ethical Hacker/4. Cheatsheets",
-    "CISCO Ethical Hacker/3. Laboratorios  Prácticos"
+    "CISCO Ethical Hacker/4. Cheatsheets"
   ]
 }
